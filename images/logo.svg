@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="279.0mm"
+   height="189.0mm"
+   viewBox="0 0 279.0 189.0"
+   version="1.1"
+   id="SVGRoot"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="logo.svg">
+  <defs
+     id="defs3827" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="527.24409"
+     inkscape:cy="242.87964"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1">
+    <sodipodi:guide
+       id="guide3836"
+       position="0,11.3385826774"
+       orientation="0,1"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       id="guide3838"
+       position="0,702.992125998"
+       orientation="0,1"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       id="guide3840"
+       position="11.3385826774,0"
+       orientation="1,0"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       id="guide3842"
+       position="500.787401585,0"
+       orientation="1,0"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       id="guide3844"
+       position="553.700787413,0"
+       orientation="1,0"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       id="guide3846"
+       position="1043.14960632,0"
+       orientation="1,0"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata3830">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <ellipse
+       style="fill:#c8ab37;stroke-width:0.14324482"
+       id="path3801"
+       cx="141.3631"
+       cy="89.403618"
+       rx="138.33928"
+       ry="85.554062" />
+    <rect
+       style="fill:#ffffff;stroke-width:0.07910175"
+       id="rect3805"
+       width="4.1920996"
+       height="176.51558"
+       x="139.26703"
+       y="1.1458297" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:225.6493988px;line-height:2;font-family:'Freestyle Script';-inkscape-font-specification:'Freestyle Script';letter-spacing:0px;word-spacing:0px;fill:#008080;fill-opacity:1;stroke:none;stroke-width:5.6412344"
+       x="22.790194"
+       y="184.76654"
+       id="text3821"
+       transform="scale(1.4057085,0.71138505)"><tspan
+         sodipodi:role="line"
+         id="tspan3819"
+         x="22.790194"
+         y="184.76654"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:2;font-family:'Freestyle Script';-inkscape-font-specification:'Freestyle Script';fill:#008080;stroke-width:5.6412344">S</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:246.05296326px;line-height:1.25;font-family:'Freestyle Script';-inkscape-font-specification:'Freestyle Script';letter-spacing:0px;word-spacing:0px;fill:#008080;fill-opacity:1;stroke:none;stroke-width:6.15132332"
+       x="95.336853"
+       y="223.28206"
+       id="text3825"
+       transform="scale(1.3507566,0.74032581)"><tspan
+         sodipodi:role="line"
+         id="tspan3823"
+         x="95.336853"
+         y="223.28206"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Freestyle Script';-inkscape-font-specification:'Freestyle Script';fill:#008080;stroke-width:6.15132332">L</tspan></text>
+  </g>
+</svg>
